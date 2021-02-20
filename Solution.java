@@ -35,7 +35,6 @@ class Solution {
         while (miles != 0) {
             numeroRomano.add("M");
             miles -= 1;
-            System.out.println();
         }
         
         switch (centenas) {
